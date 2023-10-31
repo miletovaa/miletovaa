@@ -43,6 +43,7 @@
      <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
+     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
      <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira"/>
