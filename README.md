@@ -8,7 +8,7 @@
         <li> 👩🏻‍💻  Self-taught <b>Full-Stack Web Developer</b></li>
         <li> 🏡  Born in <b>Belarus, Minsk</b></li>
         <li> 📍  Currently living in <b>Slovenia, Koper</b></li>
-        <li> 📈  Working at <a href="https://codetalkers.eu/"><img src="http://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=16&duration=2500&vCenter=true&pause=2000000&color=7EE8CC&repeat=false&random=false&width=435&height=13&lines=%3CCODE+TALKERS%2F%3E" alt="CODE TALKERS" /></a></li>
+        <li> 📈  Working at <a href="https://codetalkers.eu/"><img src="http://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=16&duration=2500&vCenter=true&pause=2000000&color=7EE8CC&repeat=false&random=false&width=200&height=13&lines=%3CCODE+TALKERS%2F%3E" alt="CODE TALKERS" /></a></li>
         <li> 🎓  Studying <b>Bioinformatics</b> at the University of Primorska</li>
       </ul>
     </td>
@@ -46,7 +46,6 @@
      <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
      <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira"/>
