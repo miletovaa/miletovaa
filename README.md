@@ -26,14 +26,12 @@
      <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux"/>
      <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
      <img src="https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpine.js"/>
-     <br>
      <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>
      <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel"/>
      <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress"/>
      <img src="https://img.shields.io/badge/-Sage-05122A?style=flat&logo=roots+sage"/>
      <img src="https://img.shields.io/badge/-PrestaShop-05122A?style=flat&logo=prestashop"/>
      <img src="https://img.shields.io/badge/-Shopify-05122A?style=flat&logo=shopify"/>
-     <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
@@ -42,7 +40,6 @@
      <img src="https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm"/>
      <img src="https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
      <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
