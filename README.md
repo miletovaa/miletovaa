@@ -8,7 +8,7 @@
         <li> 👩🏻‍💻  Self-taught <b>Full-Stack Web Developer</b></li>
         <li> 🏡  Born in <b>Belarus, Minsk</b></li>
         <li> 📍  Currently living in <b>Slovenia, Koper</b></li>
-        <li> 📈  Working at <a href="https://codetalkers.eu/"><img src="http://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=16&duration=2500&vCenter=true&pause=2000000&color=7EE8CC&repeat=false&random=false&width=200&height=13&lines=%3CCODE+TALKERS%2F%3E" alt="CODE TALKERS" /></a></li>
+        <li> 📈  Working at <a href="https://codetalkers.eu/" target="_blank"><img src="http://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=16&duration=2500&vCenter=true&pause=2000000&color=7EE8CC&repeat=false&random=false&width=200&height=13&lines=%3CCODE+TALKERS%2F%3E" alt="CODE TALKERS" /></a></li>
         <li> 🎓  Studying <b>Bioinformatics</b> at the University of Primorska</li>
       </ul>
     </td>
