@@ -12,7 +12,7 @@
         <li> 🎓  Studying <b>Bioinformatics</b> at the University of Primorska</li>
       </ul>
     </td>
-    <td align="center" rowspan=2>
+    <td align="center">
       <h2><b>Contact me:</b></h2>
       <a href="https://www.linkedin.com/in/anna-miletova-816369259/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
       <a href="https://www.facebook.com/profile.php?id=100015059113427"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr>
-   <td>
+   <td colspan=2>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <h4>Front-end</h4>
      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
