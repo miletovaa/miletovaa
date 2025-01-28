@@ -16,7 +16,7 @@
       <h2><b>Contact me:</b></h2>
       <a href="https://www.linkedin.com/in/anna-miletova-816369259/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
       <a href="https://www.facebook.com/profile.php?id=100015059113427"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
-      <a href="https://t.me/amivaa"><img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+      <a href="https://t.me/annamiletova"><img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
     </td>
   </tr>
   <tr>
