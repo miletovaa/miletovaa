@@ -7,7 +7,7 @@
       <ul>
         <li> 👩🏻‍💻  Full-Stack Web Developer</li>
         <li> 🧬  <b>Looking for opportunities in Bioinformatics</b></li>
-        <li> 🎓  Bioinformatics Bachelor Student @ University of Primorska</li>
+        <li> 🎓  Bioinformatics Bachelor Student (2nd year) @ University of Primorska</li>
         <li> 📍  From Belarus, Minsk, currently based in Koper, Slovenia</li>
       </ul>
     </td>
