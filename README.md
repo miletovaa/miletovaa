@@ -37,7 +37,6 @@
      <br>
      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
      <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
      <img src="https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=alpine.js"/>
      <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>
      <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress"/>
