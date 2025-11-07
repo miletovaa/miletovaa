@@ -59,9 +59,6 @@
       - Statistical Analysis & Data Visualization<br>
       - Expanding knowledge in the field of bioinformatics<br>
       - Growing international experience & collaborations
-     <h2> 🚀 &nbsp;Open for</h2>
-     - <b>Jobs and Internships in Bioinformatics, Computational Biology, Genomics</b>, or related fields<br>
-     - Remote or hybrid opportunities
    </td>
   </tr>
 </table>
