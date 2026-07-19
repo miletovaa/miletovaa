@@ -5,9 +5,9 @@
     <td>
       <h2 align="center">About Me</h2>
       <ul>
+        <li> 🧬  Undergrad Research Assistant (Bioinformatics, interested in CompNeuroSci) </li>
         <li> 👩🏻‍💻  Full-Stack Web Developer</li>
-        <li> 🧬  <b>Looking for opportunities in Bioinformatics</b></li>
-        <li> 🎓  Bioinformatics Bachelor Student (2nd year) @ University of Primorska</li>
+        <li> 🎓  Bioinformatics Bachelor Student (3rd year) @ University of Primorska</li>
         <li> 📍  From Belarus, Minsk, currently based in Koper, Slovenia</li>
       </ul>
     </td>
